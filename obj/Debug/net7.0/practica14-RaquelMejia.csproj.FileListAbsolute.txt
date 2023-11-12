@@ -1,0 +1,14 @@
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\bin\Debug\net7.0\practica14-RaquelMejia.exe
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\bin\Debug\net7.0\practica14-RaquelMejia.deps.json
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\bin\Debug\net7.0\practica14-RaquelMejia.runtimeconfig.json
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\bin\Debug\net7.0\practica14-RaquelMejia.dll
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\bin\Debug\net7.0\practica14-RaquelMejia.pdb
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\practica14-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\practica14-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\practica14-RaquelMejia.AssemblyInfo.cs
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\practica14-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\practica14-RaquelMejia.dll
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\refint\practica14-RaquelMejia.dll
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\practica14-RaquelMejia.pdb
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\practica14-RaquelMejia.genruntimeconfig.cache
+C:\Users\consu\OneDrive\Documentos\REPOSITORIO PRACTICAS\practica14-RaquelMejia\obj\Debug\net7.0\ref\practica14-RaquelMejia.dll
